@@ -1,8 +1,7 @@
 🧠 MRI Image Classification Using Frequency-Domain Features
 
 This project implements a lightweight and efficient machine learning framework for classifying brain MRI images into normal and tumor categories. Instead of relying on computationally heavy deep learning models, this approach leverages frequency-domain features extracted using Fast Fourier Transform (FFT) combined with classical machine learning classifiers for accurate and interpretable diagnosis support.
-
-This work was presented at the 16th IEEE International Conference on Computing, Communication and Networking Technologies (ICCCNT 2025), IIT Indore. 🎓📄
+ 
 
 📌 Project Overview
 
@@ -87,9 +86,5 @@ Real-time diagnostic support
 
 Lightweight solution for resource-constrained clinical environments
 
-🏆 Conference Recognition
 
-This work was presented at IEEE ICCCNT 2025 🎓
-📍 Venue: IIT Indore, Madhya Pradesh, India
-📅 Date: July 6th–11th, 2025
 Dataset:https://www.kaggle.com/datasets/masoumehsiar/siardataset
